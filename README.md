@@ -71,7 +71,7 @@
 <hr>
 <br>
 
-<!--<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijuljain25&theme=tokyonight" alt="rijuljain25" /></p> -->
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijuljain25&theme=tokyonight" alt="rijuljain25" /></p>
 <hr>
 <br>
 
