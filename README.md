@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 <h1 align="center">Hi 👋, I'm Rijul</h1>
-<h4 align="center">I am a self-motivated B.Tech Computer Science student hailing from Udaipur. With a natural aptitude for learning, I am eager to find a challenging work environment where I can demonstrate my skills and contribute to the growth of the community. Proficient in Data Structures and Algorithms, I possess hands-on expertise in software development. Furthermore, I have a strong inclination towards continuous learning, always striving to acquire new skills and stay updated with emerging technologies.</h4>
+<h4 align="justify">I am a self-motivated B.Tech Computer Science student hailing from Udaipur. With a natural aptitude for learning, I am eager to find a challenging work environment where I can demonstrate my skills and contribute to the growth of the community. Proficient in Data Structures and Algorithms, I possess hands-on expertise in software development. Furthermore, I have a strong inclination towards continuous learning, always striving to acquire new skills and stay updated with emerging technologies.</h4>
 
 <br>
 <hr>
@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rijulJain25](https://github.com/rijulJain25)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/rijulJain25)
 
-- 📑 This is my portfolio website [https://rijuljain.netlify.app/](https://rijuljain.netlify.app/)
+- 📑 This is my portfolio website [Rijul K Jain](https://rijulkjain.netlify.app/)
 
 - 💬 Ask me about **Flutter App Dev, MERN**
 
@@ -35,15 +35,16 @@
 </tr>
 <tr>
 <td style="text-align:center">Frameworks</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/ExpressJs-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/NodeJS-E34F26?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/ExpressJs-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/NodeJS-E34F26?style=for-the-badge&logo=Node.js&logoColor=white"></td>
 </tr>
 <tr>
 <td style="text-align:center">Library</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></td>
 </tr>
 <tr>
-<td style="text-align:center">OS</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></td>
+<tr>
+<td style="text-align:center">Database</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></td>
 </tr>
 <tr>
 <td style="text-align:center">Tools</td>
@@ -51,12 +52,12 @@
 </tr>
 <tr>
 <td style="text-align:center">Competitive coding</td>
-<td style="text-align:center"><a href=""><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+<td style="text-align:center"><a href=""><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 <a href=""><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a></td>
 </tr>
 <tr>
 <td style="text-align:center">IDEs</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="	https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="	https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"></td>
 </tr>
 <tr>
 <td style="text-align:center">Design</td>
