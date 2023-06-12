@@ -70,10 +70,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rijuljain25" alt="rijuljain25" /></a> </p>
 
 <hr>
-<br>
-![](https://github-readme-stats.vercel.app/api?username=rijulJain25&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rijulJain25&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rijulJain25&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rijulJain25&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false" alt="rijuljain25" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rijulJain25&theme=shades-of-purple&hide_border=false" alt="rijuljain25" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijulJain25&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="rijuljain25" /></p>
+
 <hr>
 <br>
 
@@ -87,11 +87,4 @@
   
   <hr>
 <br>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijuljain25&show_icons=true&locale=en&layout=compact" alt="rijuljain25" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rijuljain25&show_icons=true&locale=en" alt="rijuljain25" /></p> 
- -->
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rijuljain25&theme=tokyonight" alt="abhisheknaiidu" /> -->
-
 <h3 align="center">Leave a ⭐ from <a href="https://github.com/rijulJain25">here</a> if you like 😁<h3>
