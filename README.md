@@ -71,8 +71,9 @@
 
 <hr>
 <br>
-
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijuljain25&theme=tokyonight" alt="rijuljain25" /></p>
+![](https://github-readme-stats.vercel.app/api?username=rijulJain25&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rijulJain25&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rijulJain25&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <hr>
 <br>
 
