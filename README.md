@@ -70,7 +70,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rijuljain25" alt="rijuljain25" /></a> </p>
 
 <hr>
-<p align="center ><img src="https://github-readme-streak-stats.herokuapp.com/?user=rijulJain25&theme=shades-of-purple&hide_border=false" alt="rijuljain25" />
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=rijulJain25&theme=shades-of-purple&hide_border=false" alt="rijuljain25" />
 </p>
 
 
